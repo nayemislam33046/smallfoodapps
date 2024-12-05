@@ -1,15 +1,10 @@
-import React from 'react'
-import Practice from './Validation/practice'
-
-
+import React from "react";
+import Home from "./Home/Home";
 const App = () => {
   return (
     <div>
-      
-<Practice/>
-
+      <Home />
     </div>
-  )
-}
-
-export default App
+  );
+};
+export default App;
