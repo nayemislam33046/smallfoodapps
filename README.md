@@ -8,7 +8,8 @@ A simple and responsive food ordering frontend project built using **ReactJS** a
 - 💨 Styled using TailwindCSS
 - 📱 Fully responsive layout
 - 📦 Easy to install and run
-
+- 🌐 visit live site **https://smallfoodapp.vercel.app/**
+  
 ## 🛠️ Technologies Used
 
 - ReactJS
