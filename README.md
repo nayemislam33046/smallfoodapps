@@ -20,8 +20,10 @@ A simple and responsive food ordering frontend project built using **ReactJS** a
 
 Follow these steps to run the project locally:
 
-### 1. Clone the Repository
+### Here is the setup 
 
 ```bash
 git clone https://github.com/nayemislam33046/smallfoodapp.git
 cd smallfoodapp
+npm install
+npm run dev 
